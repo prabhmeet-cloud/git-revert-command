@@ -1,0 +1,5 @@
+git reset --hard {commit_id}
+
+reset your branch to the previous commit and discard the merge changes in local.
+
+
